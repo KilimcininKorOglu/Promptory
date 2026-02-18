@@ -70,18 +70,18 @@ Add to `~/.factory/settings.json`:
 
 ## Hook Input Reference
 
-| Field             | Description                |
-|-------------------|----------------------------|
-| `session_id`      | Unique session identifier  |
-| `prompt`          | The user's prompt text     |
-| `cwd`             | Current working directory  |
-| `transcript_path` | Path to conversation JSON  |
+| Field             | Description               |
+|-------------------|---------------------------|
+| `session_id`      | Unique session identifier |
+| `prompt`          | The user's prompt text    |
+| `cwd`             | Current working directory |
+| `transcript_path` | Path to conversation JSON |
 
 ## Environment Variables
 
-| Variable              | Description                        |
-|-----------------------|------------------------------------|
-| `FACTORY_PROJECT_DIR` | Project root where Droid started   |
+| Variable              | Description                      |
+|-----------------------|----------------------------------|
+| `FACTORY_PROJECT_DIR` | Project root where Droid started |
 
 ## Output Location
 

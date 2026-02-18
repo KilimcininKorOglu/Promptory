@@ -4,11 +4,11 @@ A lightweight hook system that automatically archives every prompt you send to A
 
 ## Supported Tools
 
-| Tool        | Guide                        |
-|-------------|------------------------------|
-| Droid CLI   | [droid-cli.md](droid-cli.md) |
+| Tool        | Guide                            |
+|-------------|----------------------------------|
+| Droid CLI   | [droid-cli.md](droid-cli.md)     |
 | Claude Code | [claude-code.md](claude-code.md) |
-| OpenCode    | [opencode.md](opencode.md)   |
+| OpenCode    | [opencode.md](opencode.md)       |
 
 ## How It Works
 

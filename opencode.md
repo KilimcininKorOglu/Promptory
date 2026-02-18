@@ -80,11 +80,11 @@ ARCHIVE_FILE="${OPENCODE_PROJECT_DIR:-$PWD}/Prompt_Archive.md"
 
 ## Hook Input Reference
 
-| Field             | Description                |
-|-------------------|----------------------------|
-| `session_id`      | Unique session identifier  |
-| `prompt`          | The user's prompt text     |
-| `cwd`             | Current working directory  |
+| Field        | Description               |
+|--------------|---------------------------|
+| `session_id` | Unique session identifier |
+| `prompt`     | The user's prompt text    |
+| `cwd`        | Current working directory |
 
 ## Output Location
 
